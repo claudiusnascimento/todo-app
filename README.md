@@ -2,8 +2,8 @@
 
 ## Intalation
 
-git clone https://github.com/claudiusnascimento/todo-app
-cd todo-app
-npm start
+#### git clone https://github.com/claudiusnascimento/todo-app
+#### cd todo-app
+#### npm start
 
-... you good to go.
+... your good to go.
