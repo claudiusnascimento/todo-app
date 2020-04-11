@@ -1,0 +1,29 @@
+body {
+    background-color: #2d3035;
+}
+
+.area-content {
+    background-color: #22252a;
+}
+
+.color-g1 {
+    color: #8a8d93;
+}
+
+.color-r1 {
+    color: #8a8d93;
+}
+
+.border-right-thin {
+    border-right: 1px solid #36393e;
+}
+
+.padd-left-none {
+    padding-left: 0;
+}
+
+.padd-lr-none {
+    padding-left: 0;
+    padding-right: 0;
+}
+

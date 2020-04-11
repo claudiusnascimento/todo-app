@@ -1,0 +1,33 @@
+header {
+    border-bottom: 1px solid #36393e;
+}
+.app-name {
+    font-size: 20px;
+    margin: 0 20px 0 0;
+    padding: 20px 0;
+}
+
+.add-todo {
+    height: 100%;
+    line-height: 30px;
+}
+.add-todo input {
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    font-size: 22px;
+    border: 0;
+    padding: 0 10px;
+    color: #8f9196;
+    line-height: 30px;
+    background-color: #373b42;
+    outline: none;
+}
+
+.btn-add-todo {
+    background: #4c5056;
+    height: 100%;
+    width: 100%;
+    color: #ababab;
+    border-radius: 0;
+}
